@@ -1,0 +1,9 @@
+<!ELEMENT trails (trail+)>
+<!ELEMENT trail (name, location, distance, elevation?, condition)>
+<!ATTLIST trail difficulty (easy | moderate | hard) #REQUIRED
+               last_reported CDATA #IMPLIED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT distance (#PCDATA)>
+<!ELEMENT elevation (#PCDATA)>
+<!ELEMENT condition (#PCDATA)>

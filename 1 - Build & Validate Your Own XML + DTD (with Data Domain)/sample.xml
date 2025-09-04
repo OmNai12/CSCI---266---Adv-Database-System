@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE trails SYSTEM "domain.dtd">
+<trails>
+  <trail difficulty="moderate" last_reported="2025-09-01">
+    <name>Yosemite Falls Trail</name>
+    <location>Yosemite National Park</location>
+    <distance>7.2 miles</distance>
+    <elevation>2700 ft</elevation>
+    <condition>open</condition>
+  </trail>
+</trails>
